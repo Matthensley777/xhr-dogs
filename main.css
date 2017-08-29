@@ -1,0 +1,15 @@
+body {
+	background-color: lightgrey;
+}
+
+.dogs {
+	display: inline-block;
+	border: solid black 1px;
+	width: 200px;
+	margin: 10px;
+	padding: 10px;
+}
+
+h1 {
+	text-align: center;
+}
