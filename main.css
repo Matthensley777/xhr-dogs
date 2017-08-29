@@ -5,11 +5,17 @@ body {
 .dogs {
 	display: inline-block;
 	border: solid black 1px;
-	width: 200px;
+	width: 300px;
+	height: 400px;
 	margin: 10px;
 	padding: 10px;
 }
 
 h1 {
 	text-align: center;
+}
+
+.image {
+	width: 190px; 
+	height: 300px;
 }
